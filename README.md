@@ -31,9 +31,15 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,redux,git,postman" />
+  <div>
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs" />
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,redux,git,postman" />
+  </div>
+  <div>
   <img src="https://skillicons.dev/icons?i=c,c++,rust,bash,python,linux" />
+  </div>
 </p>
 
 <hr>
