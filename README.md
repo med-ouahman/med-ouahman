@@ -5,7 +5,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Med+Ouahmane!;" />
 </h1>
-<h2> - 🌱 I’m currently learning the Rust programming language </h2>
+<h2> - 🌱 I’m currently building a web server for a school project using C++98</h2>
 <h2> - 💬 Ask me about JavaScript, Node.js, React... here, https://github.com/med-ouahman/med-ouahman/issues </h2>
 <br>
 <div align="center">
